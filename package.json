@@ -18,7 +18,7 @@
     "bcrypt",
     "has_secure_password"
   ],
-  "author": "Matt Venables <mattvenables@gmail.com>",
+  "author": "Bryan Paronto <bparonto@gmail.com>, Matt Venables <mattvenables@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/venables/bookshelf-secure-password/issues"
@@ -30,7 +30,8 @@
   },
   "homepage": "https://github.com/venables/bookshelf-secure-password#readme",
   "dependencies": {
-    "bcrypt": "^3.0.6"
+    "bcrypt": "^3.0.6",
+    "bcryptjs": "^2.4.3"
   },
   "devDependencies": {
     "bookshelf": "^0.15.1",
